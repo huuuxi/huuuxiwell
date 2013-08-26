@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HuuuxiWell"
+  id="myeclipse.1377497842848"
+  context-root="/HuuuxiWell"
+  j2ee-spec="5.0"
+  archive="HuuuxiWell.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
